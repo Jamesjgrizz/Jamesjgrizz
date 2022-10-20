@@ -4,7 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jamesjgrizz/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jamesjgrizz/post-install-config)
   
 - <b>Microsoft Azure</b>
   - [Configuring A Virtual Machine](https://github.com/jamesjgrizz/configure-ad)
